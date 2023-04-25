@@ -128,5 +128,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 TELEGRAM_BOT = {
     "TOKEN": "6148620362:AAFGhrlzU3AAEff5toRFhavnOCRgJvY3Xoc",
-    "WEBHOOK_URL": "https://5033-91-123-150-8.ngrok-free.app/telegram/",
+    "WEBHOOK_URL": "https://096d-91-123-150-8.ngrok-free.app/telegram/",
 }
